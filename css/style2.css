@@ -1,0 +1,35 @@
+body {
+background: #DDFCDD;
+color: black;
+}
+h {
+text-align: left;
+font-size: 18pt;
+font-style: normal;
+color: rgb(255, 0, 0);
+}
+h3 {
+text-align: left;
+font-size: 14pt;
+font-style: italic;
+color: magenta;
+}
+p {
+text-align: center;
+font-style: normal;
+font-family: Cordia New;
+font-size: 14pt;
+}
+
+
+.red{
+    color:red
+}
+
+
+#big{
+    font-size:red
+}
+.green{
+    color:green
+}
